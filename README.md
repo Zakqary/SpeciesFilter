@@ -1,7 +1,7 @@
 # SpeciesFilter
 A program for filtering traits from an excel datasheet, intended as a digital keying tool
 
-Download the package here: https://drive.google.com/file/d/1RL1Ahva4kqPDZ8dH_7cZKtlwVrZxMF0M/view?usp=sharing
+Download the program here: https://drive.google.com/file/d/1RL1Ahva4kqPDZ8dH_7cZKtlwVrZxMF0M/view?usp=sharing
 
 Video tutorial for usage here: https://youtu.be/YkPLiog0E5w
 
